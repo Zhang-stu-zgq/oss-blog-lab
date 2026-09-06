@@ -1,0 +1,10 @@
+runtime/content/
+runtime/logs/
+runtime/.ghost/
+runtime/config.*.json
+
+node_modules/
+*.db
+.env
+.DS_Store
+*.zip
